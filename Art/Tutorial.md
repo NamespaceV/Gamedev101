@@ -1,0 +1,2 @@
+-   Teoria kolorów podstawy - [http://stuff.veekun.com/pkcolor/](http://stuff.veekun.com/pkcolor/)
+-   Jak uczyć się rysunku - [https://discover.hubpages.com/art/how-to-draw-learn](https://discover.hubpages.com/art/how-to-draw-learn)
