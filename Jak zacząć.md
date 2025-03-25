@@ -79,8 +79,8 @@ dobra, dobra... to musisz mieć
         -   dlaczego będzie chciał ją odpalić
         -   czy płaci i ile?
     -   jak duży potrzebujesz team
-        -   potrzebujesz kogoś technicznego bo inaczej gra nie będzie działać...
-        -   potrzebujesz kogoś kto oceni czy projekt trzyma się kupy
+        -   potrzebujesz kogoś technicznego, bo inaczej gra nie będzie działać...
+        -   potrzebujesz kogoś, kto oceni czy projekt trzyma się kupy
     -   ile czasu będzie powstawać
         -   jak utrzymać motywację do robienia projektu przez ten czas
 

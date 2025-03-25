@@ -117,11 +117,11 @@ O ile samo sortowanie nie jest specjalnie ciekawe to ma zastosowanie w wielu ró
 
 Poza tym wszystkie biblioteki i silniki opierają się na algorytmach które ktoś za nas napisał, wiec znajomość tych sposobów pozwala na ocenę, które obiekty w grze jak się zachowają. Pozwala na dopisywanie nowych zachowań, których nie uwzględniono w narzędziu. A raz na jakiś czas taka wiedz może być potrzebna do napisania naszej logiki gry np kodu zagadki logicznej albo zaprojektowania AI przeciwnika.
 
-Przydatna jest też znajomość matematyki, zwłaszcza geometrii obliczeniowej w 3d. Bo często trzeba wydajnie policzyć np jak daleko są obiekty od siebie, czy dany obiekt znajduje się po lewej czy po prawej itp itd.
+Przydatna jest też znajomość matematyki, zwłaszcza geometrii obliczeniowej w 3d. Bo często trzeba wydajnie policzyć np jak daleko są obiekty od siebie, czy dany obiekt znajduje się po lewej czy po prawej itp. itd.
 
 Podstawowa wiedza z fizyki, zwłaszcza mechanika newtonowska, pojawia się często przy symulacji ruchu czy to jednostki czy np kamery.
 
-Po poznaniu podstaw umiejętności algorytmiczne można szlifować na serwisach typu [https://www.hackerrank.com/](https://www.hackerrank.com/) które mają duże biblioteki małych zadań o różnycm stopniu trudnosci. Pozwalają wysłać rozwiązania w wielu językach i zweryfikują poprawność i czas działania rozwiązania.
+Po poznaniu podstaw umiejętności algorytmiczne można szlifować na serwisach typu [https://www.hackerrank.com/](https://www.hackerrank.com/) które mają duże biblioteki małych zadań o różnym stopniu trudności. Pozwalają wysłać rozwiązania w wielu językach i zweryfikują poprawność i czas działania rozwiązania.
 
 ## Narzędzia i sposoby organizacji kodu
 
